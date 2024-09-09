@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-    <h1>ola mundo</h1>
+    <h1>ola mundo! este é um projeto react js web</h1>
     </>
   );
 }
